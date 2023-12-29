@@ -19,7 +19,7 @@ public class A01DataTest {
         grade = 'B';
         isAdult = age >=20;
         
-        
+        System.out.println("123");
     }
     
 }
